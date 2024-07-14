@@ -5,6 +5,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_ra_phoenix97</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/3034d18a-fbad-476f-8f82-652ee4f00574/resourceGroups/az-group-rg/providers/microsoft.insights/components/az-ra-phoenix97</ApplicationInsightsResourceId>
+    <UserSecretsId>835f7455-a10b-49a8-8702-6b4c1b61146e</UserSecretsId>
   </PropertyGroup>
+
+<ItemGroup>
+<PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+</ItemGroup>
 
 </Project>

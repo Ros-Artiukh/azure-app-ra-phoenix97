@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("835f7455-a10b-49a8-8702-6b4c1b61146e")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-ra-phoenix97")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
