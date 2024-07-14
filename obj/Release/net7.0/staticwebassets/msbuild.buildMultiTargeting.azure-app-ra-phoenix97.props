@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\azure-app-ra-phoenix97.props" />
+</Project>

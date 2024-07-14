@@ -1,0 +1,7 @@
+D:\projects\azure-app-ra-phoenix97\publish\azure-app-ra-phoenix97.exe
+D:\projects\azure-app-ra-phoenix97\publish\appsettings.Development.json
+D:\projects\azure-app-ra-phoenix97\publish\appsettings.json
+D:\projects\azure-app-ra-phoenix97\publish\azure-app-ra-phoenix97.dll
+D:\projects\azure-app-ra-phoenix97\publish\azure-app-ra-phoenix97.deps.json
+D:\projects\azure-app-ra-phoenix97\publish\azure-app-ra-phoenix97.runtimeconfig.json
+D:\projects\azure-app-ra-phoenix97\publish\azure-app-ra-phoenix97.pdb

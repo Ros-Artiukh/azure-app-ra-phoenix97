@@ -1,0 +1,12 @@
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\azure-app-ra-phoenix97.exe
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\publish\web.config
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\appsettings.Development.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\appsettings.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\publish\appsettings.Development.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\publish\appsettings.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\publish\azure-app-ra-phoenix97.deps.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\publish\azure-app-ra-phoenix97.runtimeconfig.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\azure-app-ra-phoenix97.dll
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\azure-app-ra-phoenix97.deps.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\azure-app-ra-phoenix97.runtimeconfig.json
+D:\projects\azure-app-ra-phoenix97\bin\Release\net7.0\publish\azure-app-ra-phoenix97.pdb
